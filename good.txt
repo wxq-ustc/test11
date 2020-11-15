@@ -2,3 +2,4 @@ oppo
 vivo
 apple
 huawei1:
+xiaomi
